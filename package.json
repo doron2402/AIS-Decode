@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ggencoder@^0.1.13",
+        "scope": null,
+        "escapedName": "ggencoder",
+        "name": "ggencoder",
+        "rawSpec": "^0.1.13",
+        "spec": ">=0.1.13 <0.2.0",
+        "type": "range"
+      },
+      "/Users/doronsegal/Webdev/servers"
+    ]
+  ],
+  "_from": "ggencoder@>=0.1.13 <0.2.0",
+  "_id": "ggencoder@0.1.13",
+  "_inCache": true,
+  "_location": "/ggencoder",
+  "_nodeVersion": "4.6.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/ggencoder-0.1.13.tgz_1480244722621_0.4007274154573679"
+  },
+  "_npmUser": {
+    "name": "fulup-bzh",
+    "email": "fulup@fridu.net"
+  },
+  "_npmVersion": "2.15.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ggencoder@^0.1.13",
+    "scope": null,
+    "escapedName": "ggencoder",
+    "name": "ggencoder",
+    "rawSpec": "^0.1.13",
+    "spec": ">=0.1.13 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ggencoder/-/ggencoder-0.1.13.tgz",
+  "_shasum": "a9047f3463345a3512ef32cc0627fcd3efc5fefe",
+  "_shrinkwrap": null,
+  "_spec": "ggencoder@^0.1.13",
+  "_where": "/Users/doronsegal/Webdev/servers",
+  "author": {
+    "name": "Fulup Ar Foll",
+    "email": "fulup@breizhme.net",
+    "url": "http://www.breizhme.net/fulup"
+  },
+  "bin": {
+    "Ais2JsonClient": "./bin/Ais2JsonClient.js"
+  },
+  "bugs": {
+    "url": "http://github.com/fulup-bzh/GeoGate/issues"
+  },
+  "dependencies": {
+    "async": "*",
+    "jison": "*"
+  },
+  "description": "GEOGATE-geojson handles AIS/NMEA encoding/decoding for GEOgate GPS/AIS/GTS framework",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a9047f3463345a3512ef32cc0627fcd3efc5fefe",
+    "tarball": "https://registry.npmjs.org/ggencoder/-/ggencoder-0.1.13.tgz"
+  },
+  "home": "http://www.geotobe.org/geogate",
+  "homepage": "https://github.com/fulup-bzh/GeoGate#readme",
+  "keywords": [
+    "GTS",
+    "opengts",
+    "GPS",
+    "tracker",
+    "AIS",
+    "GeoJSON",
+    "nmea",
+    "gpx",
+    "gps103",
+    "tk102",
+    "simulator",
+    "gprmc"
+  ],
+  "license": {
+    "type": "apache20"
+  },
+  "main": "ApiExport.js",
+  "maintainers": [
+    {
+      "name": "fulup-bzh",
+      "email": "fulup@fridu.net"
+    }
+  ],
+  "name": "ggencoder",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fulup-bzh/GeoGate.git"
+  },
+  "scripts": {},
+  "version": "0.1.13"
+}
