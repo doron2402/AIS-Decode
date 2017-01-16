@@ -25,5 +25,5 @@
   "main": "ApiExport.js",
   "name": "ggencoder",
   "scripts": {},
-  "version": "0.1.13"
+  "version": "0.1.2"
 }
