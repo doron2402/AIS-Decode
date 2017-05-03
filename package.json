@@ -23,7 +23,7 @@
     "gprmc"
   ],
   "main": "ApiExport.js",
-  "name": "ggencoder",
+  "name": "ais-decoder",
   "scripts": {},
   "version": "1.2.1",
   "author": {
