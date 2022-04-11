@@ -3,7 +3,7 @@
     "Ais2JsonClient": "./bin/Ais2JsonClient.js"
   },
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^3.2.2",
     "jison": "^0.4.17"
   },
   "description": "GEOGATE-geojson handles AIS/NMEA encoding/decoding for GEOgate GPS/AIS/GTS framework",
